@@ -47,20 +47,6 @@ O valor de `<multicast-host>` representa o endereço IP do grupo de multicast ao
 
 O valor de `<server_port>` é o número da porta em que o servidor de multicast estará ouvindo e no qual os clientes (incluindo o seu aplicativo) se conectam para enviar e receber mensagens. É essencial escolher uma porta disponível e que não entre em conflito com outras portas em uso na sua rede.
 
-Exemplo de execução do aplicativo com valores fictícios:
-
-```bash
-java MulticastChat 239.0.0.1 12345
-
-
-
-### Exemplo
-
-Para iniciar o Multicast Chat e se comunicar com um grupo de multicast, você pode usar o seguinte comando:
-
-```bash
-java MulticastChat 239.0.0.1 12345
-```
 
 ## Contribuição
 
