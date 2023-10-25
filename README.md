@@ -76,5 +76,3 @@ O arquivo `MulticastChat.java` é a classe principal que inicia o aplicativo de 
 ### ReadThread.java
 
 O arquivo `ReadThread.java` contém a classe `ReadThread`, responsável por receber e processar as mensagens recebidas do grupo multicast. Ela assegura que as mensagens do próprio usuário não sejam repetidas.
-
-Certifique-se de substituir `<seu-usuario>`, `<seu-repositorio>`, `<multicast-host>`, `<server_port>`, `[Seu Nome]`, e `[https://github.com/seu-nome-de-usuario]` pelas informações relevantes do seu projeto. Em seguida, copie e cole este conteúdo no arquivo `README.md` do seu repositório no GitHub.
